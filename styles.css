@@ -17,8 +17,8 @@ body {
 }
 
 .card {
-    width: 180px;
-    height: 280px;
+    width: 200px;
+    height: 300px;
     background-color: #d00000;
     border: 1px solid;
     transform-style: preserve-3d;
@@ -82,14 +82,14 @@ body {
 
 .card-title-main {
     font-family:'Courier New', Courier, monospace;
-    font-size: 64px;
+    font-size: 38px;
     font-weight: 400;
 }
 
 .card-title-apostrophe {
     position: absolute;
-    top: 34px;
-    right: 8px;
+    top: 15px;
+    right: 4px;
     font-size: 8px;
 }
 
